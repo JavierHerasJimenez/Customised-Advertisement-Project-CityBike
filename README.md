@@ -12,7 +12,7 @@ This is my final Bootcamp project with [IronHack](https://www.ironhack.com/us/en
 
 <a name="descriptionandgoals"></a>
 
-##Project Description & Project goals
+## Project Description & Project goals
 
 The project consists of two parts:
 
